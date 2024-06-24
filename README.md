@@ -1,3 +1,3 @@
-# clone-tabnews
+# uaiboraviajar
 
-Implementing the https://tabnews.com.br to practice programming
+Travel and food advice
